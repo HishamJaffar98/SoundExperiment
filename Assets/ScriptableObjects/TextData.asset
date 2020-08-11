@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64195a19878b0e648a93d439534724a5, type: 3}
+  m_Name: TextData
+  m_EditorClassIdentifier: 
+  data:
+  - 1) Fork or any metal object              2) Hollowed out Tin Can                   
+    3) Rubber Band                                   4) Piece of Mirror                                  
+    5) Light source shining through a slit                                            
+    6) Wall                                                7) Balloon
+  - 1) Stretch a balloon over one end of the hollowed out can.                       
+    2) Stick a small piece of mirror on this end.                                                    
+    3) Tie the balloon to the can using a rubber band and make sure this end of the
+    can is facing a wall.                          4) Create an apparatus where light
+    passes through a slit using any light source.                                              
+    5) Make sure the light hits the mirror.                                  6) Vibrate
+    the fork on the other end of the can.
+  - Notice that when you vibrate the fork by moving it rapidly, the light spot that
+    is being reflected on the wall starts to move.
+  - This phenomenon occurs because when a vibrating object moves forward, it pushes
+    and compresses the air in front of it creating a region of high pressure. This
+    region is called a compression.  This compression starts to move away from the
+    vibrating object. When the vibrating object moves backwards,it creates a region
+    of low pressure called rarefaction. As the object moves back and forth rapidly,
+    a series of compressions and rarefactions is created in the air. These make the
+    sound wave that propagates through the medium. This disturbance is what causes
+    the balloon and thus the reflected light spot to move.

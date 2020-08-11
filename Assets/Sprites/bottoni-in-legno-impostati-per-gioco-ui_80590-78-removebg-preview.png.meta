@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: e2016cd662159bf4aa0e7475f34f1d97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -173891717522088186
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_0
+  - first:
+      213: 3538884463798523735
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_1
+  - first:
+      213: 2241096111953014943
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_2
+  - first:
+      213: -1372076324943860103
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_3
+  - first:
+      213: 2051670988138311998
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_4
+  - first:
+      213: -6333721199575173753
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_5
+  - first:
+      213: 249605245456159086
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_6
+  - first:
+      213: 5109764292390754667
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_7
+  - first:
+      213: 1466242524198444864
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_8
+  - first:
+      213: 3093457547744610434
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_9
+  - first:
+      213: 3403276233857592219
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_10
+  - first:
+      213: -5067868887624835872
+    second: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 136
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f96bb7766369df0800000000000000
+      internalID: -173891717522088186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 294
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571cd58ba4ac1130800000000000000
+      internalID: 3538884463798523735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 294
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f77c3a09f91f10800000000000000
+      internalID: 2241096111953014943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 294
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e6ffe1ad765fce0800000000000000
+      internalID: -1372076324943860103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 294
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3175fbb4eff87c10800000000000000
+      internalID: 2051670988138311998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 158
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f5f0602a1a18a0800000000000000
+      internalID: -6333721199575173753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 158
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611d75f5a6c67300800000000000000
+      internalID: 249605245456159086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 162
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691ded1d8789e640800000000000000
+      internalID: 5109764292390754667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 162
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9b69aec3295410800000000000000
+      internalID: 1466242524198444864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 162
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888115ff3b2eea20800000000000000
+      internalID: 3093457547744610434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 309
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b6c9f04bdda3f20800000000000000
+      internalID: 3403276233857592219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottoni-in-legno-impostati-per-gioco-ui_80590-78-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 28
+        width: 199
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1ed0f8105ba9b0800000000000000
+      internalID: -5067868887624835872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
